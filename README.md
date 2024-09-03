@@ -89,7 +89,7 @@ Visit: https://render.com/
 
 Locally
 
-- Create a folder ‘eBookStore-Mock-Server’
+- Create a folder ‘ebookstore-mock-server’
 
 - npm init
 
